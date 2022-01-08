@@ -1,0 +1,18 @@
+#radio{
+    background-color: rgba(119, 136, 153, 0.603);
+    overflow: scroll;
+}
+#checkbox{
+    background-image: linear-gradient(rgba(255, 166, 0, 0.582), rgba(255, 255, 0, 0.719));
+}
+textarea{
+    background-color: rgba(176, 196, 222, 0.479);
+}
+#sub{
+    background-color: green;
+    color: white;
+}
+#res{
+    background-color: rgba(133, 25, 25, 0.699);
+    color: white;
+}
